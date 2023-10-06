@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_trip_list">Trip List</string>
+    <string name="action_new_trip">New Trip</string>
+    <string name="action_search">Search</string>
+</resources>

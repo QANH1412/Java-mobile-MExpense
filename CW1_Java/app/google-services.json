@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222195550400",
+    "project_id": "anhvq-as-mobile",
+    "storage_bucket": "anhvq-as-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222195550400:android:c74247f2cc05d581ca8525",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222195550400-fs9n4vbpk9evn5624gmrlmk31tqestg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkxPTUZbIjSg34infs3VGxrRQuAFHioTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222195550400-fs9n4vbpk9evn5624gmrlmk31tqestg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
